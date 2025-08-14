@@ -22,19 +22,18 @@ To develop impactful software tools that empower and assist people for years to 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-💡 C++, Python, JavaScript, Lua, Assembly, HTML/CSS, SQL, PHP  
+💡 C++, Python, Typescript, JavaScript, Lua, Assembly, HTML, CSS, SQL, PHP
 
 **Web Dev:**  
-🌐 Node.js, Express.js, MongoDB, MySQL, Tailwind CSS, WordPress  
+🌐 React, Nextjs, Nodejs, Clerk, Stripe, mySQL, MongoDB, Tailwind CSS, Expressjs,
+Vercel, Google Cloud
 
 **Tools & Platforms:**  
 🧰 Visual Studio, Git/GitHub, Docker, Unix
 
 ## 🚧 Current Projects
 
-- DDS-NET (Active Development)
-
-- DDS-LINK Foundry Module (Planned)
+- DDS-LINK Foundry Module
 
 - Gen-Rpg (Planned)
 
