@@ -1,7 +1,7 @@
 # Hi, I'm Brett Williams! 👋  
 🎓 Computer Science Student | 💻 Software Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-etherawaits.github.io-blue)](https://etherawaits.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-etherawaits.net-blue)](https://etherawaits.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brett%20Williams-blue?logo=linkedin)](https://linkedin.com/in/brettwilliams343/)
 [![Discord](https://img.shields.io/badge/Discord-etherawaits-7289DA?logo=discord)](https://discordapp.com/users/etherawaits)
 
